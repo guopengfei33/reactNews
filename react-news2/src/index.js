@@ -6,6 +6,7 @@ import App from './componrnts/App';
 import NewsContainers from './componrnts/News_containers';
 import NewsDetail from './componrnts/News_detail';
 import UserCenter from './componrnts/User_center';
+import './componentCss/pc.css';
 
 
 ReactDOM.render(
