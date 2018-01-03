@@ -20,7 +20,7 @@ class NewsHeader extends React.Component{
             key : "toutiao",
             userName : null,
             userId : null,
-            isShow : true
+            isShow : false
         };
     }
     //定义点击MenuItem时的回调函数
